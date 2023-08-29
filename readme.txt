@@ -1,4 +1,1 @@
-visual studio code
-открыть терминал в ide
-cd fresh-project
-deno task start
+Pet project для изучения создания и настройки docker контейнеров REST приложения (Spring + Fresh)
